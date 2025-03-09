@@ -26,7 +26,7 @@ pip install torch numpy matplotlib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/neural-network-trainer.git
+git clone https://github.com/synapsetron/FeedforwardNeuralNetwork.git
 cd neural-network-trainer
 ```
 
